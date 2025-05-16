@@ -4,7 +4,6 @@ The story of JUA began with a deep desire to address the unemployment crisis in 
 
 Inspired by this realisation, we embarked on a mission to create a platform that would enable individuals to exchange money for knowledge, empowering them to provide their services independently. JUA was born out of the vision to build a table for knowledge exchange, revolutionising the way people earn an income by sharing their expertise and insights.
 
-https://www.jua.one
 
 <!--
 
